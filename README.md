@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Handa</h1>
-<h3 align="center">Full Stack Developer | React • Express • MongoDB • DSA</h3>
+<h3 align="center">Full Stack Developer | React • Express • MongoDB • Python</h3>
 
 ---
 
@@ -9,6 +9,7 @@
 - ⚡ Building real-world projects using **React, Express.js, MongoDB & Node.js**
 - 🎯 Interested in scalable web apps and modern UI/UX
 - 🛠️ Exploring APIs, authentication systems, and deployment workflows
+- 🐍 Learning Python for automation, AI and backend development
 
 ---
 
@@ -26,7 +27,7 @@
 
 ### Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,postman" />
 </p>
 
 ---
@@ -57,16 +58,22 @@
 - 🌐 Advanced React Projects
 - ☁️ Deployment & Cloud Basics
 
+## 🔍 Currently Exploring
+- Python Development
+- AI-powered Applications
+- Backend Architecture
+- API Integrations 
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Om-Handa&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om-Handa&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Handa&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Handa&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
