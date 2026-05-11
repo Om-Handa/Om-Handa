@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 💻 Passionate about Full Stack Web Development
 - 🌱 Currently learning **DSA in C++** and advanced backend development
-- ⚡ Building real-world projects using **React, Express.js, MongoDB & Node.js**
+- ⚡ Building modern and responsive web applications
 - 🎯 Interested in scalable web apps and modern UI/UX
 - 🛠️ Exploring APIs, authentication systems, and deployment workflows
 - 🐍 Learning Python for automation, AI and backend development
@@ -35,10 +35,16 @@
 ## 📌 Featured Projects
 
 ### ✈️ SAFAR – Travel Booking Platform
-- Full-stack travel booking website
+- Travel booking website with modern UI
 - Hotel & city search suggestions
-- JWT Authentication
-- React + Express + MongoDB
+- Responsive frontend built using React
+- Clean and user-friendly travel experience
+
+### 🧠 Santulan – Mental Health Assistant
+- Mental wellness support platform
+- Interactive and calming user interface
+- Focused on emotional support and user engagement
+- Built to promote awareness and self-care
 
 ### 🌦️ Real-Time Weather App
 - Live weather updates
@@ -58,31 +64,35 @@
 - 🌐 Advanced React Projects
 - ☁️ Deployment & Cloud Basics
 
+---
+
 ## 🔍 Currently Exploring
 - Python Development
 - AI-powered Applications
 - Backend Architecture
-- API Integrations 
+- API Integrations
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om-Handa&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Handa&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Handa&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/Om-Handa">
+<p align="left">
+  <a href="https://github.com/Om-Handa" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="www.linkedin.com/in/om-handa-62451b30" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:omhanda246@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
